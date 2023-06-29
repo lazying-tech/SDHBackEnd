@@ -1,0 +1,1 @@
+{"version":3,"file":"DocumentTerminology.routes.js","sourceRoot":"","sources":["../../src/routes/DocumentTerminology.routes.ts"],"names":[],"mappings":";;;;;AAAA,wGAAoF;AACpF,sDAA6B;AAE7B,MAAM,YAAY,GAAG,iBAAO,CAAC,MAAM,EAAE,CAAA;AAErC,YAAY,CAAC,GAAG,CAAC,gBAAgB,EAAE,qDAAiB,CAAC,aAAa,CAAC,CAAA;AACnE,YAAY,CAAC,GAAG,CAAC,iBAAiB,EAAE,qDAAiB,CAAC,cAAc,CAAC,CAAA;AAErE,kBAAe,YAAY,CAAA"}
