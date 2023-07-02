@@ -1,5 +1,5 @@
 import express from "express";
-import { MHController } from "../controllers/Mon_Hoc.route.js";
+import { MHController } from "../controllers/Mon_Hoc.controller.js";
 
 const MonHocRoute = express.Router();
 
